@@ -1,0 +1,24 @@
+;"Meaning: - , if black jobban áll
++, if white jobban áll";;;
+White move;Current score state;;Black move;Current score state 2
+e4;+0.25;;c5;+0.41
+Nc3;+0.28;;Nc6;+0.28
+f4;-0.16;;g6;-0.16
+Nf3;-0.19;;Bg7;-0.19
+Bb5;-0.21;;Nd4;-0.21
+a4;-0.32;;e6;-0.10
+O-O;-0.27;;Ne7;-0.08
+e5;-0.21;;Nec6;+1.19
+Ne4;+1.19;;O-O;+1.19
+Nxc5;-0.30;;Qb6;-0.30
+Bxc6;-2.82;;Qxc5;-2.82
+Nxd4;-3.76;;Qxd4+;-3.76
+Kh1;-4.23;;bxc6;-4.23
+c3;-4.23;;Qb6;-3.96
+d4;-3.96;;d5;-3.05
+a5;-3.18;;Qb5;-3.18
+b3;-3.36;;Ba6;-3.36
+Ba3;-4.10;;Rfb8;-3.53
+Bb4;-4.53;;Qxf1+;-4.53
+Qxf1;-4.53;;Bxf1;-4.53
+Rxf1;-4.53;;Rb7;-3.99
